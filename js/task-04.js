@@ -18,4 +18,4 @@ decrementButton.addEventListener("click", () => {
 
 function updateDisplay() {
 	valueEl.textContent = counterValue;
-}
+};

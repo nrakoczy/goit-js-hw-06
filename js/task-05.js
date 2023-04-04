@@ -11,6 +11,3 @@ nameInput.addEventListener("input", (event) => {
 });
 
 
-// nameInput.addEventListener("input", () => {
-//   nameOutput.textContent = nameInput.value ? nameInput.value : "Anonymous";
-// });
